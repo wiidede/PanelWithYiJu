@@ -1,6 +1,4 @@
 # PanelWithYiJu
-自用Rainmeter面板，使用一句API
-
 - 使用一句api刷新句子
 - 使用彩云api刷新天气
 - 刷新键单击刷新，右击重启
